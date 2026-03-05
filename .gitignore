@@ -1,0 +1,5 @@
+node_modules/
+assets/css/
+.idea/
+mix-manifest.json
+assets/.DS_Store

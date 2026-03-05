@@ -1,0 +1,27 @@
+{
+  "name": "andreas-test",
+  "version": "1.0.0",
+  "description": "npm init -y",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spherewebgr-git/andreas-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/spherewebgr-git/andreas-test/issues"
+  },
+  "homepage": "https://github.com/spherewebgr-git/andreas-test#readme",
+  "devDependencies": {
+    "cross-env": "^10.1.0",
+    "laravel-mix": "^6.0.49",
+    "sass": "^1.97.3",
+    "sass-loader": "^12.1.0"
+  }
+}
