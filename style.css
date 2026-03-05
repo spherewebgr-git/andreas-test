@@ -1,0 +1,46 @@
+/*
+
+Theme Name: fundraising
+Author: Application Development Team
+Author URI: https://egov.demokritos.gr
+Description: Institute Wordpress Theme
+URL: egov.demokritos.gr
+Department: E-governance Office
+Version: v2.0
+
+*/
+
+/* Header styling */
+header {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Menu styling */
+.main-menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-left: 0;
+}
+
+.main-menu li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.main-menu li a:hover {
+    color: #0073aa;
+}
+
+/* Site title & description */
+.site-title {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.site-description {
+    font-size: 1rem;
+    color: #666;
+}
