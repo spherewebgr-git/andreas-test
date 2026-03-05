@@ -16,7 +16,7 @@
     <nav class="main-navigation">
         <?php
         wp_nav_menu(array(
-            'theme_location' => 'primary', // matches functions.php
+            'theme_location' => 'main-menu', // matches functions.php
             'container' => false,           // remove extra <div>
             'menu_class' => 'main-menu',    // class for <ul>
             'fallback_cb' => false          // optional: no menu fallback

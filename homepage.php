@@ -8,5 +8,6 @@
  */
 ?>
 <?php get_header()
-. get_template_part('parts/homepage/section', 'services')
+. get_template_part('parts/homepage/section', 'slider')
+. get_template_part('parts/homepage/section', 'breadcrumb')
 .get_footer(); ?>
